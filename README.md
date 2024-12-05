@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá, eu sou Murilo Azevedo 👋
 
-<!--
-**MurilloSanttos/MurilloSanttos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil no GitHub! Sou desenvolvedor apaixonado por tecnologia e sempre em busca de aprender e crescer no mundo da programação. 👨‍💻
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Formação**: Cursei Análise e Desenvolvimento de Sistemas (ADS), o que me proporcionou uma base sólida para trabalhar com diversas tecnologias.
+
+🔧 **Tecnologias que utilizo**:
+- **Frontend**: React.js, Tailwind CSS, JavaScript.
+- **Backend**: Node.js, Express, Python.
+- **Banco de Dados**: SQLite, MySQL.
+- **Ferramentas**: Git, GitHub, WebSockets, Socket.IO.
+  
+💼 **Atualmente buscando**: Oportunidades de trabalho como desenvolvedor **Home Office** ou **Presencial**. Estou aberto a desafios e projetos interessantes!
+
+## Meus Projetos
+
+Aqui estão alguns projetos que desenvolvi e continuo aprimorando:
+
+- **[ChatBotTS](https://github.com/MurilloSanttos/ChatBotTS)**: Um chatbot feito com TypeScript, Node.js e WebSockets.
+
+## Como posso ajudar
+
+Estou sempre aberto a colaborar em projetos de código aberto! Se você tem uma ideia ou um projeto interessante, entre em contato comigo. 😄
+
+Se você é um desenvolvedor, ou um entusiasta de tecnologia, podemos trocar ideias e aprender juntos!
+
+## Como entrar em contato
+
+- 📧 **E-mail**: muriilloosanttos@gmail.com
+
+---
+
+Espero que goste do meu trabalho! 😃
