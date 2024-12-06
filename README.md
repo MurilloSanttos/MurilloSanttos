@@ -14,12 +14,6 @@ Bem-vindo ao meu perfil no GitHub! Sou desenvolvedor apaixonado por tecnologia e
   
 💼 **Atualmente buscando**: Oportunidades de trabalho como desenvolvedor **Home Office** ou **Presencial**. Estou aberto a desafios e projetos interessantes!
 
-## Meus Projetos
-
-Aqui estão alguns projetos que desenvolvi e continuo aprimorando:
-
-- **[ChatBotTS](https://github.com/MurilloSanttos/ChatBotTS)**: Um chatbot feito com TypeScript, Node.js e WebSockets.
-
 ## Como posso ajudar
 
 Estou sempre aberto a colaborar em projetos de código aberto! Se você tem uma ideia ou um projeto interessante, entre em contato comigo. 😄
