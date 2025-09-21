@@ -1,48 +1,81 @@
 # Olá, eu sou Murilo Azevedo 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de novos desafios e oportunidades para evoluir profissionalmente.
+### Desenvolvedor de Sistemas com foco em transformar dados em soluções inteligentes.
 
-## Sobre Mim
+Bem-vindo ao meu perfil! Sou um profissional graduado em Análise e Desenvolvimento de Sistemas, atualmente aprofundando meus conhecimentos em **Business Intelligence, Big Data e Analytics**. Meu objetivo é unir o desenvolvimento de software com a ciência de dados para criar produtos inovadores e eficientes.
 
-- **Formação Acadêmica:**  
-  Graduado em Análise e Desenvolvimento de Sistemas (ADS), o que me proporcionou uma base sólida para trabalhar com diversas tecnologias e linguagens.
-
-- **Especialização em Andamento:**  
-  Atualmente, estou me aprofundando em **Business Intelligence, Big Data e Analytics - Ciência de Dados**, expandindo minhas habilidades para oferecer soluções inteligentes e baseadas em dados.
-
-## Tecnologias que Utilizo
-
-- **Frontend:**  
-  - React.js  
-  - Tailwind CSS  
-  - JavaScript
-
-- **Backend:**  
-  - Node.js  
-  - Express  
-  - Python
-
-- **Banco de Dados:**  
-  - SQLite  
-  - MySQL
-
-- **Outras Ferramentas e Tecnologias:**  
-  - Git & GitHub  
-  - WebSockets  
-  - Socket.IO
-
-## Oportunidades Profissionais
-
-Estou em busca de novas oportunidades de trabalho, seja **Home Office** ou **Presencial**. Estou aberto a colaborar em projetos inovadores e desafiadores, onde eu possa contribuir com minhas habilidades e, ao mesmo tempo, continuar aprendendo e crescendo profissionalmente.
-
-## Colaboração e Parcerias
-
-Acredito na força do trabalho colaborativo e estou sempre disposto a contribuir com projetos de código aberto. Se você tem uma ideia ou projeto interessante, não hesite em entrar em contato – vamos construir algo incrível juntos!
-
-## Contato
-
-- **E-mail:** [muriilloosanttos@gmail.com](mailto:muriilloosanttos@gmail.com)
+<div align="left">
+  <a href="mailto:muriilloosanttos@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
 
 ---
 
-Obrigado pela visita ao meu perfil! Espero que possamos colaborar e crescer juntos no mundo da tecnologia e análise de dados. 😃
+## 🛠️ Ferramentas e Tecnologias
+
+Aqui estão algumas das tecnologias com as quais tenho trabalhado:
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3 align="center">Frontend</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <h3 align="center">Backend</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3 align="center">Banco de Dados</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+        <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <h3 align="center">Outras Ferramentas</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Minhas Estatísticas no GitHub
+
+Estou sempre buscando aprender e contribuir. Aqui estão algumas das minhas estatísticas no GitHub:
+
+<div align="center">
+  <a href="https://github.com/SEU-USUARIO-AQUI">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MurilloSanttos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloSanttos&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
+
+---
+
+## 📫 Oportunidades e Contato
+
+Estou aberto a **novas oportunidades de trabalho (Home Office ou Presencial)** e colaborações em projetos de código aberto. Se você tem uma ideia, um projeto ou uma vaga que se encaixa no meu perfil, vamos conversar!
+
+- 📧 **E-mail:** [murilo.azevedo.d.santos@gmail.com](mailto:murilo.azevedo.d.santos@gmail.com)
+
+Obrigado pela visita! 😃
