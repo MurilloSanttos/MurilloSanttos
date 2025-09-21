@@ -5,10 +5,10 @@
 Bem-vindo ao meu perfil! Sou um profissional graduado em Análise e Desenvolvimento de Sistemas, atualmente aprofundando meus conhecimentos em **Business Intelligence, Big Data e Analytics**. Meu objetivo é unir o desenvolvimento de software com a ciência de dados para criar produtos inovadores e eficientes.
 
 <div align="left">
-  <a href="mailto:muriilloosanttos@gmail.com">
+  <a href="mailto:murilo.azevedo.d.santos@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI/" target="_blank">
+  <a href="https://www.linkedin.com/in/murilo-azevedo-3b462a212" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
